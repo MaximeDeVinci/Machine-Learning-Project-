@@ -28,7 +28,7 @@ The project follows a complete Data Science pipeline:
 IV. Repository Structure
 
 - Project_Pâris-Jeremie_Manas-Maxime_Poutiers-Chloé.ipynb: The full Python code with explanations.
-- data/: Folder containing aircrafts.csv and occurrences.csv
+- Data: aircrafts.csv and occurrences.csv
 
 Authors: Chloé POUTIERS, Jérémie PARIS, Maxime MANAS
 Dataset Source: CENIPA (Brazilian Aeronautical Accidents) via Kaggle
